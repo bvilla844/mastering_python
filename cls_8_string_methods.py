@@ -1,0 +1,13 @@
+# string methods
+name = input("Enter your name: ")
+# result = len(name)
+# result = name.find("e")
+# result = name.rfind("n")
+# result = name.capitalize()
+# result = name.upper()
+# result = name.lower()
+#result = name.isdigit()
+#result= name.isalpha()
+#result = name.count("a")
+result = name.replace("a", "e")
+print(result)
